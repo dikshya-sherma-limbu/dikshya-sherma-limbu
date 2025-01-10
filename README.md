@@ -1,4 +1,4 @@
-# About-Me# Hi there, I'm [Your Name] 👋
+Dikshya Sherma Limbu
 
 ![GitHub followers](https://img.shields.io/github/followers/your-username?style=social) ![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
 
