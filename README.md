@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student  with ex
 
 ## 🛠️ My Tech Stack
 ### Languages & Frameworks
-- **Programming:** Java, Kotlin, C#, JavaScript, Python
+- **Programming:** Java, C#, JavaScript, Python, Kotlin
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Spring Boot, .Net Core
 - **Databases:** MongoDB, MySQL, Firebase, DynamoDB
