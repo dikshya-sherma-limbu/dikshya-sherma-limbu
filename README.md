@@ -7,6 +7,7 @@ Dikshya Sherma Limbu
 Welcome to my GitHub profile! I'm a passionate computer science student  with experience in building responsive and user-friendly web and mobile applications.
 
 - 🌱 I’m currently learning python and cloud infrastrucuture.
+- 💼 I am currently looking for a Summer Internship role for 2025!  
 
 ## 🛠️ My Tech Stack
 ### Languages & Frameworks
@@ -29,11 +30,14 @@ Welcome to my GitHub profile! I'm a passionate computer science student  with ex
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter/)
-[![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=Google-Chrome&logoColor=white)](https://your-website.com/)
-- **LinkedIn:** [linkedin.com/in/DikshyaLimbu](https://linkedin.com/in/DikshyaLimbu)
-- **Email:** [dikshya@example.com](mailto:shermadikshya@example.com)
-- **Instagram:** (https://www.instagram.com/dikshya__limbu/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dikshya-limbu)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dikshya__limbu)
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/dikshya57/)
+
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:shermadikshya@example.com)
+
+
 
 
