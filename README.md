@@ -2,7 +2,7 @@ Dikshya Sherma Limbu
 
 ![GitHub followers](https://img.shields.io/github/followers/dikshya-sherma-limbu?style=social) ![GitHub stars](https://img.shields.io/github/stars/dikshya-sherma-limbu?style=social)
 
-#   👋 Hi there
+#  👋 Hi there
 
 Welcome to my GitHub profile! I'm a passionate computer science student  with experience in building responsive and user-friendly web and mobile applications.
 
