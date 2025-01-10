@@ -2,8 +2,7 @@ Dikshya Sherma Limbu
 
 ![GitHub followers](https://img.shields.io/github/followers/dikshya-sherma-limbu?style=social) ![GitHub stars](https://img.shields.io/github/stars/dikshya-sherma-limbu?style=social)
 
-# Hi there 👋
-
+##👋 Hi there 
 Welcome to my GitHub profile! I'm a passionate computer science student  with experience in building responsive and user-friendly web and mobile applications.
 
 - 🌱 I’m currently learning python and cloud infrastrucuture.
@@ -55,8 +54,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student  with ex
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dikshya-sherma-limbu)
 
-## Connect with Me
-
+## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dikshya-limbu)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dikshya__limbu)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/dikshya57/)
