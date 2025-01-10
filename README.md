@@ -4,19 +4,25 @@ Dikshya Sherma Limbu
 
 # Hi there 👋
 
-- 🔭 I’m Dikshya Limbu
-- 🌱 I’m currently learning [What You're Learning]
-- 👯 I’m looking to collaborate on [Projects You Want to Collaborate On]
-- 🤔 I’m looking for help with [Areas Where You Need Help]
-- 💬 Ask me about [Topics You Can Help With]
-- 📫 How to reach me: [Your Email or Social Media]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+Welcome to my GitHub profile! I'm a passionate computer science student  with experience in building responsive and user-friendly web and mobile applications.
 
+- 🌱 I’m currently learning python and cloud infrastrucuture.
 
+## 🛠️ My Tech Stack
+### Languages & Frameworks
+- **Programming:** Java, Kotlin, C#, JavaScript, Python
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Spring Boot, .Net Core
+- **Databases:** MongoDB, MySQL, Firebase, DynamoDB
 
-## Top Languages
+### Tools & Platforms
+- GitHub, Git, Tortoise, AWS (S3, DynamoDB, ECS), IntelliJ IDEA, VS Code
 
+## 🌟 Highlights
+- 🏆 **1st Place Hackathon Winner**  
+   Organized by WIMTACH, Centennial College, and SESN for developing innovative solutions in fall prevention and pain management.
+
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshya-sherma-limbu&layout=compact&theme=radical)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dikshya-sherma-limbu)
@@ -26,3 +32,8 @@ Dikshya Sherma Limbu
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter/)
 [![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=Google-Chrome&logoColor=white)](https://your-website.com/)
+- **LinkedIn:** [linkedin.com/in/DikshyaLimbu](https://linkedin.com/in/DikshyaLimbu)
+- **Email:** [dikshya@example.com](mailto:shermadikshya@example.com)
+- **Instagram:** (https://www.instagram.com/dikshya__limbu/)
+
+
