@@ -17,16 +17,32 @@ Welcome to my GitHub profile! I'm a passionate computer science student  with ex
 - **Databases:** MongoDB, MySQL, Firebase, DynamoDB
 
 ### Tools & Platforms
-- GitHub, Git, Tortoise
--  IntelliJ IDEA, VS Code, Visual Studio
--  SSMS, MongoDB Compass, MySql Workbench
--  Google Colab, Jupyter Notebook, Spyder
-- AWS (S3, DynamoDB, ECS)
-- Jira, Slack, Kanban
 
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)](#)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](#) 
+  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)](#) 
+  [![TortoiseGit](https://img.shields.io/badge/-TortoiseGit-005F73?style=flat&logo=TortoiseGit&logoColor=white)](#)
+
+- [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white)](#) 
+  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)](#) 
+  [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)](#)
+
+- [![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)](#) 
+  [![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-47A248?style=flat&logo=MongoDB&logoColor=white)](#) 
+  [![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat&logo=MySQL&logoColor=white)](#)
+
+- [![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=Google-Colab&logoColor=white)](#) 
+  [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-DA5B0B?style=flat&logo=Jupyter&logoColor=white)](#) 
+  [![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=Python&logoColor=white)](#)
+
+- [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)](#) 
+  [![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=Amazon-S3&logoColor=white)](#) 
+  [![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=Amazon-DynamoDB&logoColor=white)](#) 
+  [![ECS](https://img.shields.io/badge/-ECS-FF9900?style=flat&logo=Amazon-ECS&logoColor=white)](#)
+
+- [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)](#) 
+  [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)](#) 
+  [![Kanban](https://img.shields.io/badge/-Kanban-3E8DCC?style=flat&logo=Trello&logoColor=white)](#)
+
 
   
 
