@@ -55,3 +55,5 @@
 - [Post Title](https://your-blog.com/post-title)
 - [Post Title](https://your-blog.com/post-title)
 <!-- BLOG-POST-LIST:END -->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=dikshya-sherma-limbu)
