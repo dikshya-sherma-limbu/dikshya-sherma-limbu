@@ -1,10 +1,10 @@
 Dikshya Sherma Limbu
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social) ![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/dikshya-sherma-limb?style=social) ![GitHub stars](https://img.shields.io/github/stars/dikshya-sherma-limbu?style=social)
 
-## About Me
+# Hi there 👋
 
-- 🔭 I’m currently working on [Your Current Project]
+- 🔭 I’m Dikshya Limbu
 - 🌱 I’m currently learning [What You're Learning]
 - 👯 I’m looking to collaborate on [Projects You Want to Collaborate On]
 - 🤔 I’m looking for help with [Areas Where You Need Help]
@@ -13,45 +13,16 @@ Dikshya Sherma Limbu
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [A Fun Fact About You]
 
-## My Skills
-
-- **Languages:** [Your Languages]
-- **Frameworks:** [Your Frameworks]
-- **Tools:** [Your Tools]
-- **Others:** [Other Skills]
-
 
 
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshya-sherma-limbu&layout=compact&theme=radical)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=dikshya-sherma-limbu)
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter/)
 [![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=Google-Chrome&logoColor=white)](https://your-website.com/)
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1234](https://github.com/your-username/your-repo/pull/1234) in [your-username/your-repo](https://github.com/your-username/your-repo)
-2. 🎉 Merged PR [#1234](https://github.com/your-username/your-repo/pull/1234) in [your-username/your-repo](https://github.com/your-username/your-repo)
-3. 🗣 Commented on [#1234](https://github.com/your-username/your-repo/issues/1234) in [your-username/your-repo](https://github.com/your-username/your-repo)
-<!--END_SECTION:activity-->
-
-## Projects
-
-- [Project 1](https://github.com/your-username/project-1) - Brief description
-- [Project 2](https://github.com/your-username/project-2) - Brief description
-- [Project 3](https://github.com/your-username/project-3) - Brief description
-
-## Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](https://your-blog.com/post-title)
-- [Post Title](https://your-blog.com/post-title)
-- [Post Title](https://your-blog.com/post-title)
-<!-- BLOG-POST-LIST:END -->
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=dikshya-sherma-limbu)
