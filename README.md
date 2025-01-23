@@ -1,6 +1,7 @@
 Dikshya Sherma Limbu
 
-![GitHub followers](https://img.shields.io/github/followers/dikshya-sherma-limbu?style=social) ![GitHub stars](https://img.shields.io/github/stars/dikshya-sherma-limbu?style=social)
+![GitHub followers](https://img.shields.io/github/followers/dikshya-sherma-limbu?style=social) ![GitHub stars](https://img.shields.io/github/stars/dikshya-sherma-limbu?style=social) ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your_username.your_repository)
+
 
 #  👋 Hi there
 
