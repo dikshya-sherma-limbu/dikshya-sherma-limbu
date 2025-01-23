@@ -1,7 +1,8 @@
 Dikshya Sherma Limbu
 
 ![GitHub followers](https://img.shields.io/github/followers/dikshya-sherma-limbu?style=social) ![GitHub stars](https://img.shields.io/github/stars/dikshya-sherma-limbu?style=social) 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=dikshya-sherma-limbu)
+![Visitor Count](https://komarev.com/ghpvc/?username=dikshya-sherma-limbu&color=blue)
+
 
 
 #  👋 Hi there
