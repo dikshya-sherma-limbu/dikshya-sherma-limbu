@@ -9,7 +9,7 @@ Dikshya Sherma Limbu
 
 Welcome to my GitHub profile! I'm a computer science student who's trying to find passion within technologies . I am still yet unkown about my core pathway like either frontend or backend etc etc, but yeah just going with the flow of learning curve. 
 
-- 🌱 I’m currently learning python and cloud infrastrucuture.
+- 🌱 I’m currently learning cloud infrastrucuture.
 - 💼 I am currently looking for a Junior Position role!  
 
 ## 🛠️ My Tech Stack
